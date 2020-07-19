@@ -1,2 +1,2 @@
 
-sted on: http://testyfood.herokuapp.com/
+Hosted on: http://testyfood.herokuapp.com/
